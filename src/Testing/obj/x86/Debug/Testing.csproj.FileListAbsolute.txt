@@ -1,0 +1,11 @@
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\x86\Debug\Testing.exe.config
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\x86\Debug\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\x86\Debug\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\x86\Debug\JoshuaKearney.Core.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\x86\Debug\JoshuaKearney.Core.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\obj\x86\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\obj\x86\Debug\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\obj\x86\Debug\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\x86\Debug\Testing.exe.config
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\x86\Debug\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\x86\Debug\Testing.pdb

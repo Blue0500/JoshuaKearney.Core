@@ -1,0 +1,14 @@
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\Release\Testing.exe.config
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\Release\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\Release\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\obj\Release\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\obj\Release\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Release\Testing.exe.config
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Release\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Release\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Release\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Release\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Release\JoshuaKearney.Core.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Release\JoshuaKearney.Core.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache

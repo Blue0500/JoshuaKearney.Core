@@ -2,16 +2,17 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace Testing {
 
-    public class Program {
+    internal class Program {
 
-        public static void Main(string[] args) {
+        private static void Main(string[] args) {
             int i = 4;
+            Console.WriteLine(i.GetComparison());
 
-            Console.WriteLine(i.GetComparison().Invoke(4, 5));
             Console.Read();
         }
     }
