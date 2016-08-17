@@ -21,13 +21,13 @@ namespace JoshuaKearney {
         }
 
         public static void Positive(long num, string paramName) {
-            if (num > 0) {
+            if (num <= 0) {
                 throw new ArgumentException($"Argument '{paramName}' must be positive ", paramName);
             }
         }
 
         public static void NonNegative(long num, string paramName) {
-            if (num >= 0) {
+            if (num < 0) {
                 throw new ArgumentException($"Argument '{paramName}' must be non-negative ", paramName);
             }
         }

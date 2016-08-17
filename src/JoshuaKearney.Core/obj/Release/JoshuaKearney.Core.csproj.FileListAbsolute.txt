@@ -2,3 +2,8 @@ C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Releas
 C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\JoshuaKearney.Core.pdb
 C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\JoshuaKearney.Core.dll
 C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\JoshuaKearney.Core.pdb
+D:\joshw\Programming\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\JoshuaKearney.Core.dll
+D:\joshw\Programming\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\JoshuaKearney.Core.pdb
+D:\joshw\Programming\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\JoshuaKearney.Core.dll
+D:\joshw\Programming\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\JoshuaKearney.Core.pdb
+D:\joshw\Programming\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\JoshuaKearney.Core.csprojResolveAssemblyReference.cache
