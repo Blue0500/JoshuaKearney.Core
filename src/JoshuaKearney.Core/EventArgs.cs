@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 namespace JoshuaKearney {
 
     public class EventArgs<T> : EventArgs, IEquatable<EventArgs<T>> {
-        public T Data { get; }
+        public T Data { get; set; } = default(T);
 
-        public EventArgs(T data) {
+        public EventArgs() {
+        }
+
+        public EventArgs(T data) : this() {
             this.Data = data;
         }
 
