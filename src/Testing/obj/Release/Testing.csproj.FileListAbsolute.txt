@@ -20,3 +20,4 @@ D:\joshw\Programming\Repos\JoshuaKearney.Core\src\Testing\bin\Release\Testing.pd
 D:\joshw\Programming\Repos\JoshuaKearney.Core\src\Testing\bin\Release\JoshuaKearney.Core.dll
 D:\joshw\Programming\Repos\JoshuaKearney.Core\src\Testing\bin\Release\JoshuaKearney.Core.pdb
 D:\joshw\Programming\Repos\JoshuaKearney.Core\src\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Release\Testing.csproj.CoreCompileInputs.cache

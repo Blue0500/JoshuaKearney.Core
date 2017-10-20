@@ -9,7 +9,7 @@ namespace Testing {
 
     internal class Program {
 
-        private static void Main(string[] args) {
+        private static async void Main(string[] args) {
             int i = 4;
             Console.WriteLine(i.GetComparison());
 

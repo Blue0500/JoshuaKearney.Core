@@ -40,6 +40,7 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuildPotential.cs" />
     <Compile Include="ComparableWrapper.cs" />
     <Compile Include="EventArgs.cs" />
     <Compile Include="Extensions.cs" />
