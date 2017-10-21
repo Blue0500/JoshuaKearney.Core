@@ -1,0 +1,1 @@
+# JoshuaKearney.CoreThis library provides some simple boilerplate for many of my projects

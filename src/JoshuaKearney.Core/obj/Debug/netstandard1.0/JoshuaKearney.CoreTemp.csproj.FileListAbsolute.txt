@@ -1,0 +1,8 @@
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\bin\Debug\netstandard1.0\JoshuaKearney.CoreTemp.deps.json
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\bin\Debug\netstandard1.0\JoshuaKearney.CoreTemp.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\bin\Debug\netstandard1.0\JoshuaKearney.CoreTemp.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\obj\Debug\netstandard1.0\JoshuaKearney.CoreTemp.csprojResolveAssemblyReference.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\obj\Debug\netstandard1.0\JoshuaKearney.CoreTemp.csproj.CoreCompileInputs.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\obj\Debug\netstandard1.0\JoshuaKearney.CoreTemp.AssemblyInfo.cs
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\obj\Debug\netstandard1.0\JoshuaKearney.CoreTemp.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\JoshuaKearney.CoreTemp\obj\Debug\netstandard1.0\JoshuaKearney.CoreTemp.pdb

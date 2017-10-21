@@ -1,1 +1,7 @@
 C:\Users\joshw\Source\Repos\JoshuaKearney.Core\Testing\bin\Debug\Testing.exe.config
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Debug\Testing.exe.config
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Debug\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\bin\Debug\Testing.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Debug\Testing.exe
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\Testing\obj\Debug\Testing.pdb

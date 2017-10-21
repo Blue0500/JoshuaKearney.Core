@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace JoshuaKearney.Core {
-    public delegate void BuildPotential<T>(T builder);
+    public delegate void BuilderPotential<T>(T builder);
 
-    public static class BuildPotential {
-        public static BuildPotential<T> Empty<T>() {
+    public static class BuilderPotential {
+        public static BuilderPotential<T> Empty<T>() {
             return _ => { };
         }
 
-        public static BuildPotential<T> Append<T>(this BuildPotential<T> potential, BuildPotential<T> other) {
+        public static BuilderPotential<T> Append<T>(this BuilderPotential<T> potential, BuilderPotential<T> other) {
             Validate.NonNull(potential, nameof(potential));
 
             if (other == null) {
@@ -25,7 +25,7 @@ namespace JoshuaKearney.Core {
             };
         }
 
-        public static BuildPotential<T> AppendAll<T>(this BuildPotential<T> potential, IEnumerable<BuildPotential<T>> others) {
+        public static BuilderPotential<T> AppendAll<T>(this BuilderPotential<T> potential, IEnumerable<BuilderPotential<T>> others) {
             Validate.NonNull(potential, nameof(potential));
 
             if (others == null) {
@@ -41,11 +41,11 @@ namespace JoshuaKearney.Core {
             };
         }
 
-        public static BuildPotential<T> AppendAll<T>(this BuildPotential<T> potential, BuildPotential<T>[] others) {
-            return potential.AppendAll(others as IEnumerable<BuildPotential<T>>);
+        public static BuilderPotential<T> AppendAll<T>(this BuilderPotential<T> potential, BuilderPotential<T>[] others) {
+            return potential.AppendAll(others as IEnumerable<BuilderPotential<T>>);
         }
 
-        public static BuildPotential<T> Prepend<T>(this BuildPotential<T> potential, BuildPotential<T> other) {
+        public static BuilderPotential<T> Prepend<T>(this BuilderPotential<T> potential, BuilderPotential<T> other) {
             Validate.NonNull(potential, nameof(potential));
 
             if (other == null) {
@@ -58,7 +58,7 @@ namespace JoshuaKearney.Core {
             };
         }
 
-        public static BuildPotential<T> PrependAll<T>(this BuildPotential<T> potential, IEnumerable<BuildPotential<T>> others) {
+        public static BuilderPotential<T> PrependAll<T>(this BuilderPotential<T> potential, IEnumerable<BuilderPotential<T>> others) {
             Validate.NonNull(potential, nameof(potential));
 
             if (others == null) {
@@ -74,8 +74,8 @@ namespace JoshuaKearney.Core {
             };
         }
 
-        public static BuildPotential<T> PrependAll<T>(this BuildPotential<T> potential, BuildPotential<T>[] others) {
-            return potential.PrependAll(others as IEnumerable<BuildPotential<T>>);
+        public static BuilderPotential<T> PrependAll<T>(this BuilderPotential<T> potential, BuilderPotential<T>[] others) {
+            return potential.PrependAll(others as IEnumerable<BuilderPotential<T>>);
         }
     }
 }

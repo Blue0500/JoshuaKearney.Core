@@ -1,4 +1,0 @@
-C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Debug\JoshuaKearney.Core.dll
-C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Debug\JoshuaKearney.Core.pdb
-C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Debug\JoshuaKearney.Core.dll
-C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Debug\JoshuaKearney.Core.pdb

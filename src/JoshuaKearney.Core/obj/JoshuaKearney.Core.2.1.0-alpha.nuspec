@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JoshuaKearney.Core</id>
+    <version>2.1.0-alpha</version>
+    <authors>JoshuaKearney.Core</authors>
+    <owners>JoshuaKearney.Core</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A common libary for all of Josh Kearney's projects</description>
+    <copyright>Copyright ©  2016 Josh Kearney</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Debug\netstandard1.0\JoshuaKearney.Core.dll" target="lib\netstandard1.0\JoshuaKearney.Core.dll" />
+    <file src="C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Debug\net40\JoshuaKearney.Core.dll" target="lib\net40\JoshuaKearney.Core.dll" />
+  </files>
+</package>
