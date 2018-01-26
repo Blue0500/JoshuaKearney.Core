@@ -1,16 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard1.0;net40</TargetFrameworks>
-    <Version>2.1.0-alpha</Version>
-    <Authors>JoshuaKearney.Core</Authors>
-    <Company>JoshuaKearney.Core</Company>
+    <TargetFrameworks>netstandard1.4;net462</TargetFrameworks>
+    <Version>2.2.1-alpha</Version>
+    <Authors>Josh Kearney</Authors>
+    <Company>Josh Kearney</Company>
     <Product>JoshuaKearney.Core</Product>
+    <Title>JoshuaKearney.Core</Title>
     <Description>A common libary for all of Josh Kearney's projects</Description>
-    <Copyright>Copyright ©  2016 Josh Kearney</Copyright>
+    <Copyright>Copyright © 2017 Josh Kearney</Copyright>
     <PackageId>JoshuaKearney.Core</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/Blue0500/JoshuaKearney.Core</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Blue0500/JoshuaKearney.Core/master/LICENCE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>2.2.1.0</AssemblyVersion>
+    <FileVersion>2.2.1.0</FileVersion>
   </PropertyGroup>
 
 </Project>

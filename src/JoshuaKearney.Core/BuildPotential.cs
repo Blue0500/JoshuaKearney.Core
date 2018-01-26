@@ -4,12 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JoshuaKearney.Core {
-    public delegate void BuilderPotential<T>(T builder);
+namespace JoshuaKearney {
+    public delegate Task BuilderPotential<T>(T builder);
 
     public static class BuilderPotential {
         public static BuilderPotential<T> Empty<T>() {
-            return _ => { };
+            return _ => Task.CompletedTask;
+        }
+
+        public static BuilderPotential<T> FromAction<T>(Action<T> action) {
+            return wr => {
+                action(wr);
+                return Task.CompletedTask;
+            };
+        }
+
+        public static BuilderPotential<T> FromFunc<T>(Func<T, Task> action) {
+            return wr => {
+                return action(wr);
+            };
         }
 
         public static BuilderPotential<T> Append<T>(this BuilderPotential<T> potential, BuilderPotential<T> other) {
@@ -19,9 +32,9 @@ namespace JoshuaKearney.Core {
                 return potential;
             }
 
-            return wr => {
-                potential(wr);
-                other(wr);
+            return async wr => {
+                await potential(wr);
+                await other(wr);
             };
         }
 
@@ -32,11 +45,13 @@ namespace JoshuaKearney.Core {
                 return potential;
             }
 
-            return wr => {
-                potential(wr);
+            return async wr => {
+                await potential(wr);
                 
                 foreach (var other in others) {
-                    other?.Invoke(wr);
+                    if (other != null) {
+                        await other(wr);
+                    }
                 }
             };
         }
@@ -52,9 +67,9 @@ namespace JoshuaKearney.Core {
                 return potential;
             }
 
-            return wr => {
-                other(wr);
-                potential(wr);
+            return async wr => {
+                await other(wr);
+                await potential(wr);
             };
         }
 
@@ -65,12 +80,14 @@ namespace JoshuaKearney.Core {
                 return potential;
             }
 
-            return wr => {
+            return async wr => {
                 foreach (var other in others) {
-                    other?.Invoke(wr);
+                    if (other != null) {
+                        await other(wr);
+                    }
                 }
                 
-                potential(wr);
+                await potential(wr);
             };
         }
 

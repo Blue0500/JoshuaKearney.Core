@@ -1,0 +1,7 @@
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\netstandard1.4\JoshuaKearney.Core.deps.json
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\netstandard1.4\JoshuaKearney.Core.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\netstandard1.4\JoshuaKearney.Core.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\netstandard1.4\JoshuaKearney.Core.csproj.CoreCompileInputs.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\netstandard1.4\JoshuaKearney.Core.AssemblyInfo.cs
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\netstandard1.4\JoshuaKearney.Core.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\netstandard1.4\JoshuaKearney.Core.pdb

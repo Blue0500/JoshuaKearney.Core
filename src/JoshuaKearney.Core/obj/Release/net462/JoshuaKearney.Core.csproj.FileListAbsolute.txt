@@ -1,0 +1,6 @@
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\net462\JoshuaKearney.Core.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\bin\Release\net462\JoshuaKearney.Core.pdb
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\net462\JoshuaKearney.Core.csproj.CoreCompileInputs.cache
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\net462\JoshuaKearney.Core.AssemblyInfo.cs
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\net462\JoshuaKearney.Core.dll
+C:\Users\joshw\Source\Repos\JoshuaKearney.Core\src\JoshuaKearney.Core\obj\Release\net462\JoshuaKearney.Core.pdb

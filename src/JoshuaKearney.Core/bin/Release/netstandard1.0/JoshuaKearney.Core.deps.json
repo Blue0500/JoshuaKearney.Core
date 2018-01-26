@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v1.0": {},
     ".NETStandard,Version=v1.0/": {
-      "joshuakearney.core/2.1.0-alpha": {
+      "joshuakearney.core/2.1.1-alpha": {
         "dependencies": {
           "NETStandard.Library": "1.6.1"
         },
@@ -202,7 +202,7 @@
     }
   },
   "libraries": {
-    "joshuakearney.core/2.1.0-alpha": {
+    "joshuakearney.core/2.1.1-alpha": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
